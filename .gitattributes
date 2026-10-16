@@ -1,0 +1,2 @@
+# Ledger files are byte-exact (hash-chained, LF only). Never let git convert line endings.
+* -text
